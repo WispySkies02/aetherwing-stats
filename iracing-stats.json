@@ -9,17 +9,17 @@
       "iracingId": "981901",
       "categories": {
         "oval": {
-          "label": "Oval",
-          "licenseClass": "\u2014",
-          "safetyRating": "\u2014",
-          "irating": "\u2014",
-          "starts": "\u2014",
-          "wins": "\u2014",
-          "top5s": "\u2014",
-          "top10s": "\u2014",
-          "avgFinish": "\u2014",
-          "lastResult": "\u2014"
-        },
+  "label": "Oval",
+  "licenseClass": "A",
+  "safetyRating": "3.42",
+  "irating": "2411",
+  "starts": "12",
+  "wins": "2",
+  "top5s": "6",
+  "top10s": "9",
+  "avgFinish": "7.8",
+  "lastResult": "P3"
+},
         "sportsCar": {
           "label": "Sports Car",
           "licenseClass": "\u2014",
