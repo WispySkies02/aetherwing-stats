@@ -7,14 +7,68 @@
       "name": "Nicholas Waggoner",
       "number": "28",
       "iracingId": "996583",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "levi-ramsey",
@@ -22,14 +76,68 @@
       "name": "Levi Ramsey",
       "number": "6",
       "iracingId": "981901",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "trent-jones",
@@ -37,14 +145,68 @@
       "name": "Trent Jones",
       "number": "45",
       "iracingId": "923146",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "colton-hammond",
@@ -52,14 +214,68 @@
       "name": "Colton Hammond",
       "number": "60",
       "iracingId": "1152681",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "joshua-douglas",
@@ -67,14 +283,68 @@
       "name": "Joshua Douglas",
       "number": "35",
       "iracingId": "827639",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "carter-swab",
@@ -82,14 +352,68 @@
       "name": "Carter Swab",
       "number": "63",
       "iracingId": "1049206",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "kayeden-perkins",
@@ -97,14 +421,68 @@
       "name": "Kayeden Perkins",
       "number": "19",
       "iracingId": "1062664",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     },
     {
       "slug": "carter-mcmillan",
@@ -112,14 +490,68 @@
       "name": "Carter McMillan",
       "number": "27",
       "iracingId": "1190292",
-      "license": "—",
-      "irating": "—",
-      "starts": "—",
-      "wins": "—",
-      "top5s": "—",
-      "top10s": "—",
-      "avgFinish": "—",
-      "lastResult": "—"
+      "categories": {
+        "oval": {
+          "label": "Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "sportsCar": {
+          "label": "Sports Car",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "formula": {
+          "label": "Formula",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtOval": {
+          "label": "Dirt Oval",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        },
+        "dirtRoad": {
+          "label": "Dirt Road",
+          "licenseClass": "—",
+          "safetyRating": "—",
+          "irating": "—",
+          "starts": "—",
+          "wins": "—",
+          "top5s": "—",
+          "top10s": "—",
+          "avgFinish": "—",
+          "lastResult": "—"
+        }
+      }
     }
   ]
 }
