@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T01:39:18.885017+00:00",
+  "updated": "2026-06-19T02:07:10.319275+00:00",
   "drivers": [
     {
       "slug": "levi-ramsey",
@@ -9,17 +9,17 @@
       "iracingId": "981901",
       "categories": {
         "oval": {
-  "label": "Oval",
-  "licenseClass": "A",
-  "safetyRating": "3.42",
-  "irating": "2411",
-  "starts": "12",
-  "wins": "2",
-  "top5s": "6",
-  "top10s": "9",
-  "avgFinish": "7.8",
-  "lastResult": "P3"
-},
+          "label": "Oval",
+          "licenseClass": "A",
+          "safetyRating": "3.42",
+          "irating": "2411",
+          "starts": "12",
+          "wins": "2",
+          "top5s": "6",
+          "top10s": "9",
+          "avgFinish": "7.8",
+          "lastResult": "P3"
+        },
         "sportsCar": {
           "label": "Sports Car",
           "licenseClass": "\u2014",
