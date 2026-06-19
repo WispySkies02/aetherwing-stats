@@ -21,7 +21,15 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install iracingdataapi
+
       - name: Run updater
+        env:
+          IRACING_EMAIL: ${{ secrets.IRACING_EMAIL }}
+          IRACING_PASSWORD: ${{ secrets.IRACING_PASSWORD }}
         run: |
           python update_iracing_stats.py
 
